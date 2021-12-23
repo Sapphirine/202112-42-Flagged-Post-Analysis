@@ -38,6 +38,9 @@ BDA-FlaggedPostAnalysis:.
 ├───images
 │       architecture.png
 │       UI.PNG
+|
+├───report
+|      BDA_Project_Paper.pdf
 │
 └───src
     │   app.py
@@ -49,9 +52,10 @@ BDA-FlaggedPostAnalysis:.
     ├───logistic_regression
     │       logistic_regression_model.ipynb
     │
-    ├───model
+    ├───data_labelling_model
     │       model.h5
-    │
+    |       LSTM_Data_Labelling.ipynb
+    |
     ├───static
     │   └───images
     │           logo.png
